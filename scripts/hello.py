@@ -16,7 +16,10 @@ def main():
     print("University of Arizona coordinates: 32.2319° N, 110.9501° W")
 
     # Add your own message here!
-    print("[I STUDY CLASSICAL ARCHAEOLOGY AND ENJOY COMBINING MAPPING, LIDAR, AND GIS TECHNOLOGY TO BETTER UNDERSTAND THE SITES OF ANCIENT GREECE]")
+    print("[I STUDY CLASSICAL ARCHAEOLOGY AND ENJOY COMBINING MAPPING, LIDAR, AND GIS TECHNOLOGY TO BETTER UNDERSTAND THE SITES OF ANCIENT GREECE]"
+    print('Updated in Codespaces')
+    
+
 
 if __name__ == "__main__":
     main()
